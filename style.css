@@ -56,3 +56,91 @@
 footer {
     text-align: center;
 }
+@media(max-width:1024px){
+    .row h1{
+        font-size: 25px;
+    }
+    #backpack p{
+        line-height: 17px;
+    }
+}
+@media(max-width:640px){
+    #backpack h3{
+        font-size: 20px;
+    }
+    #shoes h3{
+        font-size: 20px;
+    }
+    .navbar-brand img{
+        width: 90px;
+    }
+    .carousel{
+        margin-top: -70px;
+    }
+    .carousel-item h1{
+        font-size: 20px;
+    }
+    .carousel-item p{
+        font-size: 10px;
+    }
+    .carousel-item button{
+        font-size: 7px;
+    }
+    .cat1 img{
+        height: 50px;
+        width:50px ;
+    }
+    .cat1 h1{
+        font-size: 20px;
+    }
+    .cat2 img{
+        height: 50px;
+        width:50px ;
+    }
+    .cat2 h1{
+        font-size: 20px;
+    }
+    .cat3 img{
+        height: 50px;
+        width:50px ;
+    }
+    .cat3 h1{
+        font-size: 20px;
+    }
+    .col-md-4{
+        margin-bottom: 10px;
+    }
+    .card{
+        width: 250px;
+        margin: auto;
+    }
+    .card img{
+        width: 230px;
+        height: 150px;
+        margin: auto;
+    }
+    .card h5{
+        font-size: 18px;
+    }
+    .card p{
+        font-size: 12px;
+    }
+    .card button{
+        font-size: 7px;
+    }
+    #subscribe {
+        height: 200px;
+    }
+    #subscribe h3{
+        font-size: 20px;
+    }
+    #subscribe h6{
+        font-size: 10px;
+    }
+    #subscribe button{
+        font-size: 7px;
+    }
+    footer small{
+        font-size: 10px;
+    }
+}
